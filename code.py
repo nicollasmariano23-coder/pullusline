@@ -11,7 +11,8 @@ def buscar_usuario():
     cursor = conn.cursor()
 
     cursor.execute(
-        f"SELECT * FROM users WHERE id = {user_id}"
+        "SELECT * FROM users WHERE id = ?",
+        (user_id,)
     )
 
     resultado = cursor.fetchone()
