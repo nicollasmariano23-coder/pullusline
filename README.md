@@ -252,6 +252,7 @@ Adicione aqui o print do Job responsável pela análise de segurança com CodeQL
 ```text
 Inserir print aqui
 ```
+<img width="1853" height="907" alt="image" src="https://github.com/user-attachments/assets/9ee54b9e-9f61-42a8-b747-66800bcad075" />
 
 ---
 
@@ -274,6 +275,7 @@ Adicione aqui o print da aba **Security → Code scanning alerts**, caso existam
 ```text
 Inserir print aqui
 ```
+<img width="1446" height="347" alt="image" src="https://github.com/user-attachments/assets/56bcbce9-eb22-42b1-8050-a0d201fa3a3c" />
 
 ---
 
