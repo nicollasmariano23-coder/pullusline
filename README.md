@@ -99,6 +99,8 @@ Exemplos de vulnerabilidades que podem ser identificadas:
 * uso inseguro de dados de entrada
 * falhas de segurança em código Python
 * más práticas de desenvolvimento seguro
+Imagem de identificação de vunerabilidade
+<img width="1446" height="347" alt="image" src="https://github.com/user-attachments/assets/a6f5eddd-1c5d-4fa6-b95a-08d5b0e996df" />
 
 ---
 
@@ -260,20 +262,12 @@ Adicione aqui o print do Job responsável pela execução dos testes automatizad
 ```text
 Inserir print aqui
 ```
+<img width="1301" height="566" alt="image" src="https://github.com/user-attachments/assets/f4e2f2fe-b6a1-486a-8d1b-5f373dd5000b" />
 
 ---
 
-## 4. Job de Deploy para Stage
 
-Adicione aqui o print do Job responsável pela simulação de deploy para o ambiente stage.
-
-```text
-Inserir print aqui
-```
-
----
-
-## 5. Alertas de segurança no CodeQL
+## 4. Alertas de segurança no CodeQL
 
 Adicione aqui o print da aba **Security → Code scanning alerts**, caso existam alertas detectados pelo CodeQL.
 
@@ -283,7 +277,7 @@ Inserir print aqui
 
 ---
 
-## 6. Correção da vulnerabilidade
+## 5. Correção da vulnerabilidade
 
 Adicione aqui o print mostrando que, após a correção do código, a pipeline voltou a executar com sucesso.
 
