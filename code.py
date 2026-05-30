@@ -19,4 +19,4 @@ def buscar_usuario():
 
     conn.close()
 
-    return str(resultado)
+    return str(resultado) 
