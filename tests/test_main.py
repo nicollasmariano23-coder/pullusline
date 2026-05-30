@@ -1,1 +1,2 @@
-def test_soma(): assert 1 + 1 == 2
+def test_soma():
+    assert 1 + 1 == 2
